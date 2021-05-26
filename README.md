@@ -25,14 +25,14 @@
 
 - 基板データ(KiCAD)またはそこから生成したガーバーデータを使って、基板を製造します。
 - 部品を入手します。
--- [CH340K](https://akizukidenshi.com/catalog/g/gI-16306/]
--- [USB Type-Cコネクタ](https://akizukidenshi.com/catalog/g/gC-14356/)
--- 0.1uFチップコンデンサ(1608サイズ)：：2個
--- 1kΩチップ抵抗(1608サイズ)
--- 5.1kΩチップ抵抗(1608サイズ)：2個
--- 緑チップLED(1608サイズ)
--- [350mAポリスイッチ(3216サイズ)])https://akizukidenshi.com/catalog/g/gP-13490/)
--- [ピンソケット6p](https://akizukidenshi.com/catalog/g/gC-03784/)
+  - [CH340K](https://akizukidenshi.com/catalog/g/gI-16306/)
+  - [USB Type-Cコネクタ](https://akizukidenshi.com/catalog/g/gC-14356/)
+  - 0.1uFチップコンデンサ(1608サイズ)：：2個
+  - 1kΩチップ抵抗(1608サイズ)
+  - 5.1kΩチップ抵抗(1608サイズ)：2個
+  - 緑チップLED(1608サイズ)
+  - [350mAポリスイッチ(3216サイズ)](https://akizukidenshi.com/catalog/g/gP-13490/)
+  - [ピンソケット6p](https://akizukidenshi.com/catalog/g/gC-03784/)
 - 基板上に部品をとりつけます。
 
 ## Author
