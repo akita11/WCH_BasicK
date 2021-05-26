@@ -1,6 +1,6 @@
 # WCH_BasicK
 
-<img src="https://github.com/akita11/WCH_BasicK/blob/master/WCH_BasicK.jpg" width="400px">
+<img src="https://github.com/akita11/WCH_BasicK/blob/main/WCH_BasicK.jpg" width="400px">
 
 ## これは何？
 
